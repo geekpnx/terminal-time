@@ -1,2 +1,2 @@
-# Display the time/data: 
+Display the time/data: 
 $(date)
