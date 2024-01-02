@@ -1,5 +1,5 @@
 Welcome Terence!
 
-Display the time/data: 
+#Display the date/time: 
 
-$(date)
+echo $(date)
