@@ -1,2 +1,2 @@
 ##Display the date/time: 
-echo $(date)
+echo `date
