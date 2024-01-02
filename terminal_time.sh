@@ -1,5 +1,5 @@
-Welcome Terence!
+echo Welcome Terence!
 
-Display the date/time: 
+echo Display the date/time: 
 
 echo $(date)
